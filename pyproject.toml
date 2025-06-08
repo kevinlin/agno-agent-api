@@ -8,6 +8,7 @@ authors = [{ name = "Agno", email = "hello@agno.com" }]
 dependencies = [
   "agno==1.4.6",
   "duckduckgo-search",
+  "fastapi-cli",
   "fastapi[standard]",
   "openai",
   "pgvector",

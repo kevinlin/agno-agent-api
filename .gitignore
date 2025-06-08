@@ -29,3 +29,6 @@ dist
 # ignore virtualenvs
 .venv*
 venv*
+
+# Cursor IDE
+.history/
