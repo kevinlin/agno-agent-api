@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [{ name = "Agno", email = "hello@agno.com" }]
 
 dependencies = [
-  "agno==1.4.6",
+  "agno>=1.5.10",
   "duckduckgo-search",
   "fastapi-cli",
   "fastapi[standard]",
